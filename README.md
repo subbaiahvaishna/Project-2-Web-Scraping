@@ -1,1 +1,2 @@
+# Project-2-Web-Scraping
 This project analyzes movie performance and trends using data sourced from Box Office Mojo. The original plan was to scrape the website directly, but because Box Office Mojo uses dynamic JavaScript to load its tables, the data was instead collected through the site’s downloadable CSV files. After gathering the datasets, Python and pandas were used to clean the data, handle inconsistent column names, and perform the analysis. Visualizations were created to compare genres, keywords, and trends across different movie categories.
